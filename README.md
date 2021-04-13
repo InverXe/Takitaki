@@ -15,7 +15,7 @@
 > pkg update && pkg upgrade
 > pkg install git -y
 > git clone https://github.com/InverXe/Takitaki
-> cd MeliodasBot06
+> cd Takitaki
 > bash install.sh 
 ```
 #### Run👌👍
