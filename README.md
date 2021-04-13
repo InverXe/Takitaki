@@ -7,7 +7,7 @@
 
 #### WhatsApp Bot
 
-## ꧁乡Ӂταઝg૯ℓӁ乡꧂ị.li
+## Takitaki😈
 
 
 ### TERMUX ✔
